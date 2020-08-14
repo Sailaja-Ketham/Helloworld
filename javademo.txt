@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0CD1-F66B
+
+ Directory of C:\Users\saila\OneDrive\Desktop\Javaproject
+
+08/13/2020  05:29 PM    <DIR>          .
+08/13/2020  05:29 PM    <DIR>          ..
+08/13/2020  04:05 PM               674 Hello.class
+08/13/2020  03:38 PM               158 Hello.java
+08/13/2020  05:29 PM                 0 javademo.txt
+               3 File(s)            832 bytes
+               2 Dir(s)  23,472,087,040 bytes free
